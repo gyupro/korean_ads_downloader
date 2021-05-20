@@ -22,4 +22,4 @@ python kobaco_video_crawler.py
 
 <img src="examples/progress.PNG" width="400px"/>
 
-<img src="examples/caputre.PNG" width="400px"/>
+<img src="examples/capture.PNG" width="400px"/>
