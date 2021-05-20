@@ -1,5 +1,8 @@
 # korean_ads_downloader
 
+[![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
+
+
 ## introduction
 
 korean_ads_downloader is a korean advertisement downloader which provides multi-threaded interface and progress bar.
