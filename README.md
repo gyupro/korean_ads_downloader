@@ -1,6 +1,5 @@
 # korean_ads_downloader
 
-[![Python]
 
 
 ## introduction
